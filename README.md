@@ -1,6 +1,18 @@
-## Hi there 👋
 
-<h3 align="center">✨ Tech Stack ✨</h3>
+
+<h3 align="center"> 안녕하세요 저는 이동훈 입니다 </h3>
+
+<h3 align="center">현재 프론트엔드 개발자를 희망하고 있습니다</h3>
+
+
+<br>
+
+
+<br>
+<br>
+
+<h3 align="center">✨ Tech Stack ✨</h3>>
+
 <div align="center">
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
@@ -30,6 +42,12 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dlehdg&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+
+</div>
+
+<div align="center">
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ldg2409)](https://solved.ac/백준아이디)
 
 </div>
 
